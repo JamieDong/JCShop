@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JCShop.iml" filepath="$PROJECT_DIR$/JCShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-Shop/jc-Shop.iml" filepath="$PROJECT_DIR$/jc-Shop/jc-Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-annotations/jc-annotations.iml" filepath="$PROJECT_DIR$/jc-annotations/jc-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-compiler/jc-compiler.iml" filepath="$PROJECT_DIR$/jc-compiler/jc-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-core/jc-core.iml" filepath="$PROJECT_DIR$/jc-core/jc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-ec/jc-ec.iml" filepath="$PROJECT_DIR$/jc-ec/jc-ec.iml" />
+    </modules>
+  </component>
+</project>

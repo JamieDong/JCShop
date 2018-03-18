@@ -1,0 +1,1 @@
+include ':jc-Shop', ':jc-annotations', ':jc-compiler', ':jc-core', ':jc-ec'
